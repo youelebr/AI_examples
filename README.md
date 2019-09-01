@@ -1,2 +1,3 @@
 # AI_examples
-Differents example of what is possible with AI (i.e. DNN,CNN) in Python and C++
+This repository contains multiple AI examples from multiple tutorials, sometimes translate in another language.
+The examples in this git present several aspect of AI from a simple perceptron  to facial recognition.
